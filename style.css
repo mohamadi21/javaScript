@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 35%;
+}
+.jame{
+    text-align: right;
+    border: 1px solid red;
+    width: 300px;
+    height:fit-content;
+    padding: 10px;
+
+}
+
+
+
+/* header */
+#txtI{
+    margin: 10px 0;
+    width: 97%;
+    text-align: center;
+}
+
+#btnS{
+    border: none;
+   background-color: dodgerblue;
+   color: white;
+   padding: 6px;
+}
+
+
+
+
+
+
+
+
+
+/* main */
+main{
+    border-top: .5px solid rgba(0, 0, 0, 0.377);
+    margin: 15px 0;
+}
+h3{
+    margin: 10px 0;
+}
+#txtF{
+    width: 97%;
+    text-align: center;
+    margin: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+ul{
+    list-style-type: none;
+    padding: 0;
+}
+li{
+    border: .5px solid rgba(0, 0, 0, 0.377);
+    padding: 10px;
+}
+#btnC{
+    border: none;
+    background-color:darkslategrey;
+    color: white;
+    padding: 6px;
+}
+i{
+    color: red;
+    float: left;
+}
